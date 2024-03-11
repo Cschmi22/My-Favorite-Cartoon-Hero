@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: rebeccapurple;
+    text-align: center;
+}
+header h1{
+    color: cyan;
+}
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 5px solid ;
+}
+main{
+    background-color: peachpuff;
+    text-align: center;
+}
+footer{
+    background-color: darkcyan;
+    text-align: center ;
+}
