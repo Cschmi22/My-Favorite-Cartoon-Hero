@@ -49,3 +49,9 @@ footer a:hover{
     opacity: .5;
     background-color: transparent;
 }
+p.caption{
+    color: hsl(39, 127, 127);
+    font-style: italic;
+    margin-top: 0px;
+    text-align: center;
+}
